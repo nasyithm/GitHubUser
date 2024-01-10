@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="followers">%1$s Followers</string>
+    <string name="following">%1$s Following</string>
+    <string name="searchbar_hint">Input username</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="tab_text_followers">Followers</string>
+    <string name="tab_text_following">Following</string>
+    <string name="tab_layout_hint">Select Tabs</string>
+</resources>
